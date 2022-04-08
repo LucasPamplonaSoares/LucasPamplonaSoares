@@ -1,6 +1,6 @@
 ## Olá! Eu sou Lucas Pamplona Soares
 
-- 📓 Estudante de Sistemas de Informação
+- 📓 Estudante de Analise de Desenvolvimento de Sistemas
 - 📫 Contate-me no email : lucasreitz25@gmail.com
 - 😄 Pronouns: Ele/Dele
 
